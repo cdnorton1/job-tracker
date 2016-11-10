@@ -1,0 +1,15 @@
+{
+  "name": "job-tracker",
+  "version": "1.0.0",
+  "description": "App for tracking jobs applied to",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Norton",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.6",
+    "yargs": "^6.3.0"
+  }
+}
